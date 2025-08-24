@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "210332625155",
+    "firebase_url": "https://electronics-c224e-default-rtdb.firebaseio.com",
+    "project_id": "electronics-c224e",
+    "storage_bucket": "electronics-c224e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210332625155:android:929073c8bb2b334c9ba136",
+        "android_client_info": {
+          "package_name": "com.example.electrician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TOS1xmhlBOOn_rN8S6z69dEYxJ5CjIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210332625155:android:395398e630feb8479ba136",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TOS1xmhlBOOn_rN8S6z69dEYxJ5CjIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210332625155:android:e720c2b8753339bc9ba136",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TOS1xmhlBOOn_rN8S6z69dEYxJ5CjIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

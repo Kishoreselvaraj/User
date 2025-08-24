@@ -42,47 +42,53 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCYTnlxr727z_x6hMgCuLAiSizSAPvQLt4',
-    appId: '1:210332625155:web:5c9d56fa93acd3119ba136',
+    appId: '1:210332625155:web:3a0c7d3bf5477f4a9ba136',
     messagingSenderId: '210332625155',
     projectId: 'electronics-c224e',
     authDomain: 'electronics-c224e.firebaseapp.com',
+    databaseURL: 'https://electronics-c224e-default-rtdb.firebaseio.com',
     storageBucket: 'electronics-c224e.firebasestorage.app',
-    measurementId: 'G-RTLVC2DTQJ',
+    measurementId: 'G-EGRMBJCWEE',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyC6TOS1xmhlBOOn_rN8S6z69dEYxJ5CjIM',
-    appId: '1:210332625155:android:395398e630feb8479ba136',
+    appId: '1:210332625155:android:e720c2b8753339bc9ba136',
     messagingSenderId: '210332625155',
     projectId: 'electronics-c224e',
+    databaseURL: 'https://electronics-c224e-default-rtdb.firebaseio.com',
     storageBucket: 'electronics-c224e.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyC2BO21y_QQkcMSebjNJhXrsfPTmAI4DAI',
-    appId: '1:210332625155:ios:ba05f220eec5bc629ba136',
+    appId: '1:210332625155:ios:c6bd76c2ad36372d9ba136',
     messagingSenderId: '210332625155',
     projectId: 'electronics-c224e',
+    databaseURL: 'https://electronics-c224e-default-rtdb.firebaseio.com',
     storageBucket: 'electronics-c224e.firebasestorage.app',
-    iosBundleId: 'com.example.store',
+    iosBundleId: 'com.example.user',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyC2BO21y_QQkcMSebjNJhXrsfPTmAI4DAI',
-    appId: '1:210332625155:ios:ba05f220eec5bc629ba136',
+    appId: '1:210332625155:ios:c6bd76c2ad36372d9ba136',
     messagingSenderId: '210332625155',
     projectId: 'electronics-c224e',
+    databaseURL: 'https://electronics-c224e-default-rtdb.firebaseio.com',
     storageBucket: 'electronics-c224e.firebasestorage.app',
-    iosBundleId: 'com.example.store',
+    iosBundleId: 'com.example.user',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyCYTnlxr727z_x6hMgCuLAiSizSAPvQLt4',
-    appId: '1:210332625155:web:3a0c7d3bf5477f4a9ba136',
+    appId: '1:210332625155:web:5dfa6629423e5cd39ba136',
     messagingSenderId: '210332625155',
     projectId: 'electronics-c224e',
     authDomain: 'electronics-c224e.firebaseapp.com',
+    databaseURL: 'https://electronics-c224e-default-rtdb.firebaseio.com',
     storageBucket: 'electronics-c224e.firebasestorage.app',
-    measurementId: 'G-EGRMBJCWEE',
+    measurementId: 'G-RS7RF8WKTW',
   );
+
 }
