@@ -114,7 +114,6 @@ class HomePage extends StatelessWidget {
     );
   }
 }
-
 class _RoundedCard extends StatelessWidget {
   final String title;
   final String subtitle;
